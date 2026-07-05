@@ -1,0 +1,4 @@
+bookstore/jpa/JpaBatteryApp.class
+bookstore/entities/CarBatteryEntity.class
+bookstore/entities/MarineBatteryEntity.class
+bookstore/entities/BatteryEntity.class
